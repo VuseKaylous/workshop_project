@@ -1,5 +1,7 @@
 # Technology workshop class's final project
 
+This is the folder for the workshop's project. The code is reuploaded here for various reasons.
+
 ## Preparation:
 
 Using conda or virtualenv is advisable, but not necessary.
